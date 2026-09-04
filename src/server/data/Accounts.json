@@ -73,8 +73,8 @@
     "email": "test@theminesa.studio",
     "user_id": 14,
     "passwordKdf": "scrypt",
-    "passwordSalt": "5XlO7xmX8g2gTrk8uWkxcA==",
-    "passwordHash": "Qwbqr0uAeVjp/UCrg/PXyDre4WKisH7aaOJ01gn8Z4uVv/vOPn7M0n+vkV/6IUH4/8gCNdvnJoBFcBdS5OxnBg==",
+    "passwordSalt": "BsZOU+Q8vp2DztCRwjwAZA==",
+    "passwordHash": "s02KVPQEFQarn7eHoCWMjtYH99BAtu4zFzvB/7YD4FyYK/y5uSI5BNc+PYgeTWoc3J3T9cu4SRJVyXEJSNxQtA==",
     "passwordParams": {
       "N": 16384,
       "r": 8,
